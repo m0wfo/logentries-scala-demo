@@ -4,7 +4,7 @@
     <list default="true" id="2e6c3e83-e511-4f6a-81b8-e699250eb66a" name="Default" comment="" />
     <ignored path="lescala.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/pom.xml" changelist="2e6c3e83-e511-4f6a-81b8-e699250eb66a" time="1388673448927" ignored="false" />
+    <file path="/pom.xml" changelist="2e6c3e83-e511-4f6a-81b8-e699250eb66a" time="1388676873091" ignored="false" />
     <file path="/Main.scala" changelist="2e6c3e83-e511-4f6a-81b8-e699250eb66a" time="1388676395533" ignored="false" />
     <file path="/DummyFile.xpath" changelist="2e6c3e83-e511-4f6a-81b8-e699250eb66a" time="1388673795104" ignored="false" />
     <file path="/fragment.java" changelist="2e6c3e83-e511-4f6a-81b8-e699250eb66a" time="1388673958761" ignored="false" />
@@ -73,7 +73,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="10" selection-start="1331" selection-end="1331" vertical-scroll-proportion="0.0">
+            <state line="28" column="0" selection-start="861" selection-end="861" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -82,16 +82,16 @@
       <file leaf-file-name="log4j.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="365" selection-end="365" vertical-scroll-proportion="0.18103448">
+            <state line="5" column="55" selection-start="325" selection-end="325" vertical-scroll-proportion="0.12931034">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Main.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/logentries/scala/Main.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
+            <state line="12" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -107,8 +107,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/scala/Main.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/logentries/scala/Main.scala" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.xml" />
       </list>
     </option>
@@ -239,6 +240,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -421,7 +426,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298585" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24944155" sideWeight="0.67161715" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39933994" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -516,7 +521,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/logentries/scala/Main.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="0" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
           <folding />
@@ -530,7 +535,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/logentries/scala/Main.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="28" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0">
           <folding />
@@ -544,7 +549,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/logentries/scala/Main.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="28" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0">
           <folding />
@@ -558,23 +563,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/logentries/scala/Main.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="10" selection-start="1331" selection-end="1331" vertical-scroll-proportion="0.0">
+        <state line="12" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
+        <state line="28" column="0" selection-start="861" selection-end="861" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="365" selection-end="365" vertical-scroll-proportion="0.18103448">
+        <state line="5" column="55" selection-start="325" selection-end="325" vertical-scroll-proportion="0.12931034">
           <folding />
         </state>
       </provider>

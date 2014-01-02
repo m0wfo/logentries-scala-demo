@@ -25,6 +25,9 @@
 						</goals>
 					</execution>
 				</executions>
+				<configuration>
+					<mainClass>com.logentries.scala.Main</mainClass>
+				</configuration>
 			</plugin>
 		</plugins>
     </build>
